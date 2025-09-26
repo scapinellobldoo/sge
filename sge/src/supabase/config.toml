@@ -1,0 +1,8 @@
+[project]
+project_id = "kybsnauhfunlahltsesv"
+
+[functions]
+verify_jwt = false
+
+[functions.make-server-3ec57ca8]
+verify_jwt = false
